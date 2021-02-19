@@ -5,4 +5,5 @@ Maps allow us to explore, understand, and make decisions about our world. In thi
 In this specific project we will traverse and retrieve GeoJSON earthquake data and tectonic plate data in order to populate a map. 
 Also will use the Leaflet Library and an API. 
 ## Results
+Each earthquake is visually represented by a circle and color, where a higher magnitude will have a larger diameter and will be darker in color. In addition, each earthquake has a popup marker that, when clicked, shows the magnitude of the earthquake and the location of the earthquake.
 ## Summary
