@@ -27,10 +27,11 @@ let sanFranAirport =
 // Grabbing our GeoJSON data.
 L.geoJSON(sanFranAirport, {
   // We turn each feature into a marker on the map.
-  onEachFeature: function(feature, layer){
-    console.log(layer); 
-    layer.bindPopup(); 
+  onEachFeature: function(feature, layer) {
+    console.log(layer);
+    layer.bindPopup("<h2>" + feature.properties.faa + "</h2>" + "<h3>" + feature.properties.name + "</h3>"); 
   }
+
 }).addTo(map);
 
 // Get data from cities.js
