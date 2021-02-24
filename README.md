@@ -16,7 +16,7 @@ Each earthquake is visually represented by a circle and color, where a higher ma
 * Dark View
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/73972332/108937898-fc038280-7603-11eb-8b80-b18acc2f419f.png" width="720" height="313.125" />
+   <img src="https://user-images.githubusercontent.com/73972332/108937898-fc038280-7603-11eb-8b80-b18acc2f419f.png" width="694" height="384" />
 </p>
 
 ![2021-02-23_17-03-24](https://user-images.githubusercontent.com/73972332/108937981-1c334180-7604-11eb-8ccc-5df41bf356ad.png)
