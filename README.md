@@ -15,6 +15,8 @@ Each earthquake is visually represented by a circle and color, where a higher ma
 * Satellite View
 * Dark View
 
+![2021-02-23_17-02-04](https://user-images.githubusercontent.com/73972332/108937898-fc038280-7603-11eb-8b80-b18acc2f419f.png)
+
 The viewer can also toggle between three layers to filter the data. These layers include: 
 * All Earthquakes
 * Tectonic Plates
