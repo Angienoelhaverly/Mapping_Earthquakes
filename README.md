@@ -14,6 +14,7 @@ Each earthquake is visually represented by a circle and color, where a higher ma
 * Street View
 * Satellite View
 * Dark View
+
 The viewer can also toggle between three layers to filter the data. These layers include: 
 * All Earthquakes
 * Tectonic Plates
