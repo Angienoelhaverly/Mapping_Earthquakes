@@ -13,5 +13,9 @@ To complete this project, we use a URL for GeoJSON earthquake data from the USGS
 Use the JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. Calling the API's will alllow us to traverse and retrieve GeoJSON earthquake data and tectonic plate data in order to populate a map. Use the Leaflet library to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data. We can explore points (ie addresses and locations), linestrings (ie boundaries for streets and travel routes), and polygons (ie boundaries zip codes and counties) as well as non-spatial attributes (ie earthquake magnitude).  
 
 ## Results
-Each earthquake is visually represented by a circle and color, where a higher magnitude will have a larger diameter and will be darker in color. In addition, each earthquake has a popup marker that, when clicked, shows the magnitude of the earthquake and the location of the earthquake.
+Each earthquake is visually represented by a circle and color, where a higher magnitude will have a larger diameter and will be darker in color. In addition, each earthquake has a popup marker that, when clicked, shows the magnitude of the earthquake and the location of the earthquake. The map has three views:
+* Street View
+* Satellite View
+* Dark View
+
 ## Summary
